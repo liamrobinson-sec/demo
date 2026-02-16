@@ -6,7 +6,7 @@
   "dependencies": {
     "hot-formula-parser": "^3.0.0",
     "lodash": "4.17.20",
-    "serialize-javascript": "3.0.0",
+    "serialize-javascript": "7.0.2",
     "moment": "2.29.0"
   }
 }
