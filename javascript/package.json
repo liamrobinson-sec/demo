@@ -7,6 +7,6 @@
     "hot-formula-parser": "^3.0.0",
     "lodash": "4.17.20",
     "serialize-javascript": "3.0.0",
-    "moment": "2.29.0"
+    "moment": "2.30.1"
   }
 }
